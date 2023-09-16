@@ -1,6 +1,7 @@
 # Overview
 This is a "Hello World" exercise in HTML to check the integration of Visual Studio Code, Git and HTML
 
+You can see the example demo video
 [Software Demo Video](https://youtu.be/z3YyJrUr7EY)
 
 # Development Environment
